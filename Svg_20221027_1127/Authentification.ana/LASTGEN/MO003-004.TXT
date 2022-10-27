@@ -1,0 +1,9 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Recuperation		NNF*	AACom	nouveau nom Recuperation
+Recuperation		TAR	85	nouvelle taille enregistrement : 85
+Recuperation	IDRecup	NNR	IDAACom	ATTENTION : la clé IDAACom a pour nouveau nom IDRecup
+Recuperation	Tokens	RUB+		Tokens est une nouvelle rubrique
+Recuperation	DateValidité	RUB+		DateValidité est une nouvelle rubrique
+Recuperation	IDUtilisateur	RUB+		IDUtilisateur est une nouvelle clé
+Contrainte_Recuperation_Utilisateur		NWL	Utilisateur (IDUtilisateur) et Recuperation (IDUtilisateur)	Nouvelle liaison entre les fichiers Utilisateur (IDUtilisateur) et Recuperation (IDUtilisateur)
+Recuperation		FRN		

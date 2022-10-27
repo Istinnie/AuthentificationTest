@@ -1,0 +1,2 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Utilisateur	Telephone	CNW	Entier non signé sur 4 octets$Entier sur 4 octets	la rubrique Telephone a pour nouveau type Entier non signé sur 4 octets

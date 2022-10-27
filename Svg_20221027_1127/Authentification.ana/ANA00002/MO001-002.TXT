@@ -1,0 +1,6 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Utilisateur		TAR	354	nouvelle taille enregistrement : 354
+Utilisateur	Login	RUB+		Login est une nouvelle clé
+Utilisateur	Image	RUB+		Image est une nouvelle rubrique
+Utilisateur	AccesAuMenu	RUB+		AccesAuMenu est une nouvelle rubrique
+AACom		NFI		nouveau fichier
